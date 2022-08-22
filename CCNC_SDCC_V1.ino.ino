@@ -1,7 +1,7 @@
 /* 
  *  Programa: Controlador do hardware do CCNC_SDCC
  *  vsersao: 1.3 
- *  data: 14 de novembro 2020
+ *  data: 27 de junho de 2022
  *  Desenvolvedores:  Karan
  *                    Rubens Damigle
  *                    Francisco Geraldo
